@@ -1,4 +1,4 @@
-GravityView-Disable-DataTables-Search-Filter
+GravityView - Disable DataTables Search Filter
 ============================================
 
 When using the DataTables Extension, Views are displayed with a search input provided by the DataTables script. If you are also using the GravityView Search Bar, you may not want both of these enabled.
