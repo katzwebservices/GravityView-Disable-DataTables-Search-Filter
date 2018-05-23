@@ -10,7 +10,7 @@
 * License URI: 			http://www.gnu.org/licenses/gpl-2.0.html
 */
 
-add_filter( 'gravityview_datatables_js_options', 'disable_gravityview_datatables_search', 10, 3 );
+add_filter( 'gravityview_datatables_js_options', 'disable_gravityview_datatables_search', 20, 3 );
 
 /**
  * Disable the DataTables search filter
